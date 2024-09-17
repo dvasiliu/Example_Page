@@ -19,6 +19,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <img src="https://i.imgur.com/omHzaNr.png" width="600" height="400" alt="hi" class="inline"/>
 
+
+
+<img src="https://i.imgur.com/Yyu6slH.gif" width="600" height="600" alt="hi" class="inline"/>
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
